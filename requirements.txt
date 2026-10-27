@@ -1,0 +1,9 @@
+pystac-client
+planetary-computer
+odc-stac
+geopandas
+rasterio
+pandas
+numpy
+scipy
+folium
